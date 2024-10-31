@@ -1,4 +1,6 @@
 # lesson43-44
+![image](https://github.com/user-attachments/assets/ab6e7355-aa48-486b-91e0-5f0b696636f1)
+
 ### Попов Георгий
 ### параграф 43
 
